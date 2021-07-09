@@ -1,0 +1,10 @@
+@font-face {
+    font-family: 'Texas';
+    src: url('fontes/TEXAT\ BOLD\ PERSONAL\ USE___.otf')              format('opentype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+h1 {
+    font-family: 'Texas';
+}

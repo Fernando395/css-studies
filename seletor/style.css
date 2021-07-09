@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(109, 109, 245);
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h1#principal {
+    color: white;
+    background-color: rgb(109, 109, 245);
+    text-align: center;
+}
+
+.secundaria {
+    color: green;
+}
